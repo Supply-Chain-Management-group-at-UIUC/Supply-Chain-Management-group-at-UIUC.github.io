@@ -83,26 +83,30 @@ Chris Tang
 
 #### 9.00 AM - 10.00 AM: Keynote - Leader
 
-#### 10.00 AM - 11.00 AM: Session
+#### 10.00 AM - 11.30 AM: Session
 
-#### 11.00 AM - 12.00 AM: Panel
+#### 11.30 AM - 11.45 AM: Coffee break
 
-#### 12.00 AM - 1.00 PM: Lunch
+#### 11.45 AM - 1.00 PM: Panel
 
-#### 1.00 PM - 2.30 PM: Session 1
+#### 1.00 PM - 2.00 PM: Lunch
 
-#### 2.30 PM - 4.00 PM: Session 2
+#### 2.00 PM - 3.30 PM: Session 1
 
-#### 4.00 PM - 5.30 PM: Dinner
+#### 3.30 PM - 3.45 PM: Coffee break
+
+#### 3.45 PM - 5.15 PM: Session 2
+
+#### 5.15 PM - 7.30 PM: Dinner
 
 **Date: TBD, 2024; Saturday**
 
-#### 9.00 AM - 10.00 AM: Keynote - Leader
+#### 9.00 AM - 10.00 AM: Keynote 
 
-#### 10.00 AM - 11.00 AM: Panel
+#### 10.00 AM - 11.30 AM: Panel
 
-#### 11.00 AM - 12.00 AM: Session
+#### 11.45 AM - 1.15 PM: Session
 
-#### 12.00 AM - 1.00 PM: Lunch
+#### 1.15 PM - 2.00 PM: Lunch
 
 
