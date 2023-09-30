@@ -2,7 +2,10 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: page
+#title: Home
+title-heading: false
+#order: 1
 ---
 
 
@@ -35,10 +38,10 @@ ul, ol {
 </style>
 
 {: .center}
-# Midwest Healthcare Workshop
+# Supply Chain Management Conference
 
 {: .center}
-# August 17, 2023
+# TBD, 2024
 
 {: .center}
 # Co-sponsored by Gies College of Business 
@@ -46,26 +49,28 @@ ul, ol {
 {: .center}
 # & TBD
 
-**Theme of the Workshop** - TBD
+**Theme of the Workshop** - TBD (Responsible SCM)
 {: .center} 
 [**Download booklet of the workshop**](/TBD) 
 
 {: .center} 
-![Alt Text](/images/QR_code_MHC_booklet_v2.jpg)
+![Alt Text](/TBD)
 
-**Venue**: Chancellor Ballroom, i-Hotel, Champaign, IL. [https://stayatthei.com/stay/](https://stayatthei.com/stay/ )
+**Venue**: TBD, i-Hotel, Champaign, IL. [https://stayatthei.com/stay/](https://stayatthei.com/stay/ )
 
 **Conference Attendance Registration Form**:
 
 {: .center}
 # <a href="TBD" style="display: inline-block; padding: 10px 20px; background-color: #4C6BF7; color: #FFFFFF; text-decoration: none; border-radius: 5px;">Register</a>
 
+**Theme description**
+
 **Subthemes for the Workshop:**
 
-Theme description
 
 Speakers:
-Beril Toktay
+Beril Toktay,
+
 Chris Tang
 
 
