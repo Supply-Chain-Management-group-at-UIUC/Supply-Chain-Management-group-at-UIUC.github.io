@@ -105,7 +105,7 @@ Chris Tang
 
 #### 10.00 AM - 11.30 AM: Panel
 
-#### 11.30 PM - 11.45 PM: Coffee break
+#### 11.30 AM - 11.45 AM: Coffee break
 
 #### 11.45 AM - 1.15 PM: Session
 
