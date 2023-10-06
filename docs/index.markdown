@@ -38,32 +38,29 @@ ul, ol {
 </style>
 
 {: .center}
-# Supply Chain Management Conference
+## Supply Chain Management Conference
 
 {: .center}
 # TBD, 2024
 
-{: .center}
-# Co-sponsored by Gies College of Business 
+# **Theme:** Sustainability and Social Responsibility in Supply Chains
 
-{: .center}
-# & TBD
+**Purpose and Objective:** In today’s era, businesses are paying close attention to their efforts to manage their supply chains in a manner that not only minimizes the environmental impacts of their supply chain activities but also focuses on making these activities ethical and socially responsible. Sustainability and social responsibility are integral components in advancing responsible and ethical supply chain management. The objective of this conference is three-fold: (i) to bring together academics and industry professionals who are leading their research and endeavors related to sustainable and socially responsible supply chains, (ii) learn from practice about issues that are important and potentially impactful to address, and (iii) provide a platform for our SCM students to learn about recent research and developments in supply chains in terms of sustainability and social responsibility
 
-**Theme of the Workshop** - TBD (Responsible SCM)
+
 {: .center} 
 [**Download booklet of the workshop**](/TBD) 
 
 {: .center} 
-![Alt Text](/TBD)
+![QR code should be here](/TBD)
 
 **Venue**: TBD, i-Hotel, Champaign, IL. [https://stayatthei.com/stay/](https://stayatthei.com/stay/ )
 
 **Conference Attendance Registration Form**:
 
 {: .center}
-# <a href="TBD" style="display: inline-block; padding: 10px 20px; background-color: #4C6BF7; color: #FFFFFF; text-decoration: none; border-radius: 5px;">Register</a>
+<a href="TBD" style="display: inline-block; padding: 12px 25px; background-color: #3A5795; color: #FFFFFF; text-decoration: none; border-radius: 5px; font-family: 'Roboto', sans-serif; text-align: center; line-height: 1.5;">Register</a>
 
-**Theme description**
 
 **Subthemes for the Workshop:**
 
@@ -75,7 +72,7 @@ Chris Tang
 
 
 {: .center}
-# Agenda of the Conference (Tentative)
+# **Agenda of the Conference (Tentative)**
 
 **Date: TBD, 2024; Friday**
 
@@ -112,3 +109,7 @@ Chris Tang
 #### 1.15 PM - 2.00 PM: Lunch
 
 
+
+# **Sponsorship**: 
+
+Gies College of Business, University of Illinois Urbana-Champaign
