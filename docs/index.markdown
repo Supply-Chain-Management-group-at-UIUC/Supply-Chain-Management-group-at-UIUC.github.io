@@ -41,14 +41,14 @@ ul, ol {
 ## Supply Chain Management Conference
 
 {: .center}
-# TBD, 2024
+# February 23-24, 2024
 
 # **Theme:** Sustainability, Social Responsibility, and Resilience in Supply Chains
 
 **Purpose and Objective:** The theme of this conference is: “Sustainability, Social Responsibility, and Resilience in Supply Chains”. In today’s era, businesses are paying close attention to their efforts to manage their supply chains in a manner that not only minimizes the environmental impacts of their supply chain activities but also focuses on making these activities ethical and socially responsible. Furthermore, supply chain resilience is paramount for businesses to navigate an ever-changing and unpredictable world. Particularly, it plays a critical role in adapting to disruptions and maintaining operational continuity while upholding the principles of sustainability and social responsibility. The objective of this conference is three-fold: to (i) bring together academics and industry professionals who are leading their research and endeavors related to sustainable, socially responsible, and resilient supply chains, (ii) learn from practice about issues that are important and potentially impactful to address, and (iii) provide a platform for our students to learn about recent research and developments in supply chains in terms of sustainability, social responsibility, and resilience.
 
 
-**Venue**: TBD, i-Hotel, Champaign, IL. [https://stayatthei.com/stay/](https://stayatthei.com/stay/ )
+**Venue**: i-Hotel, Champaign, IL. [https://stayatthei.com/stay/](https://stayatthei.com/stay/ )
 
 **Conference Attendance Registration Form**:
 
@@ -61,8 +61,8 @@ ul, ol {
 
 ---
 
-#### **Date: TBD, 2024; Friday**
-**Venue: TBD, i-Hotel, Champaign, IL.**
+#### **Date: 23 February, 2024; Friday**
+**Venue: i-Hotel, Champaign, IL.**
 
 - **9:00 AM - 9:30 AM:** Introduction and Breakfast
 - **9:30 AM - 10:15 AM:** Keynote Speaker
@@ -76,7 +76,7 @@ ul, ol {
 
 ---
 
-#### **Date: TBD, 2024; Saturday**
+#### **Date: 24 February, 2024; Saturday**
 
 - **9:00 AM - 10:00 AM:** Keynote Speaker
 - **10:00 AM - 11:30 AM:** Panel Discussion
