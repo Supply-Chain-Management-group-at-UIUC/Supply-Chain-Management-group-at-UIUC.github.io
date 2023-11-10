@@ -48,27 +48,12 @@ ul, ol {
 **Purpose and Objective:** The theme of this conference is: “Sustainability, Social Responsibility, and Resilience in Supply Chains”. In today’s era, businesses are paying close attention to their efforts to manage their supply chains in a manner that not only minimizes the environmental impacts of their supply chain activities but also focuses on making these activities ethical and socially responsible. Furthermore, supply chain resilience is paramount for businesses to navigate an ever-changing and unpredictable world. Particularly, it plays a critical role in adapting to disruptions and maintaining operational continuity while upholding the principles of sustainability and social responsibility. The objective of this conference is three-fold: to (i) bring together academics and industry professionals who are leading their research and endeavors related to sustainable, socially responsible, and resilient supply chains, (ii) learn from practice about issues that are important and potentially impactful to address, and (iii) provide a platform for our students to learn about recent research and developments in supply chains in terms of sustainability, social responsibility, and resilience.
 
 
-{: .center} 
-[**Download booklet of the workshop**](/TBD) 
-
-{: .center} 
-![QR code should be here](/TBD)
-
 **Venue**: TBD, i-Hotel, Champaign, IL. [https://stayatthei.com/stay/](https://stayatthei.com/stay/ )
 
 **Conference Attendance Registration Form**:
 
 {: .center}
 <a href="TBD" style="display: inline-block; padding: 12px 25px; background-color: #3A5795; color: #FFFFFF; text-decoration: none; border-radius: 5px; font-family: 'Roboto', sans-serif; text-align: center; line-height: 1.5;">Register</a>
-
-
-**Subthemes for the Workshop:**
-
-
-Speakers:
-Beril Toktay,
-
-Chris Tang
 
 
 {: .center}
