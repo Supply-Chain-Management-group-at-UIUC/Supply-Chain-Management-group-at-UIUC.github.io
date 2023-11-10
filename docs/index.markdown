@@ -57,42 +57,32 @@ ul, ol {
 
 
 {: .center}
-# **Agenda of the Conference (Tentative)**
+# Agenda of the Conference (Tentative)
 
-**Date: TBD, 2024; Friday**
+---
 
+#### **Date: TBD, 2024; Friday**
 **Venue: TBD, i-Hotel, Champaign, IL.**
 
-#### 9.00 AM - 9.30 AM: Introduction and breakfast
+- **9:00 AM - 9:30 AM:** Introduction and Breakfast
+- **9:30 AM - 10:15 AM:** Keynote Speaker
+- **10:15 AM - 10:30 AM:** Coffee Break
+- **10:30 AM - 12:00 PM:** Session
+- **12:00 PM - 1:00 PM:** Lunch
+- **1:00 PM - 2:30 PM:** Session 1
+- **2:30 PM - 2:45 PM:** Coffee Break
+- **2:45 PM - 4:15 PM:** Session 2
+- **5:00 PM - 7:30 PM:** Dinner
 
-#### 9.30 AM - 10.15 AM: Keynote - Leader
+---
 
-#### 10.15 AM - 10.30 AM: Coffee break
+#### **Date: TBD, 2024; Saturday**
 
-#### 10.30 AM - 12.00 AM: Session
-
-#### 12.00 PM - 1.00 PM: Lunch
-
-#### 1.00 PM - 2.30 PM: Session 1
-
-#### 2.30 PM - 2.45 PM: Coffee break
-
-#### 2.45 PM - 4.15 PM: Session 2
-
-#### 5.00 PM - 7.30 PM: Dinner
-
-**Date: TBD, 2024; Saturday**
-
-#### 9.00 AM - 10.00 AM: Keynote 
-
-#### 10.00 AM - 11.30 AM: Panel
-
-#### 11.30 AM - 11.45 AM: Coffee break
-
-#### 11.45 AM - 1.15 PM: Session
-
-#### 1.15 PM - 2.00 PM: Lunch
-
+- **9:00 AM - 10:00 AM:** Keynote Speaker
+- **10:00 AM - 11:30 AM:** Panel Discussion
+- **11:30 AM - 11:45 AM:** Coffee Break
+- **11:45 AM - 1:15 PM:** Session
+- **1:15 PM - 2:00 PM:** Lunch
 
 
 # **Sponsorship**: 
