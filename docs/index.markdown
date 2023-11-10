@@ -43,9 +43,9 @@ ul, ol {
 {: .center}
 # TBD, 2024
 
-# **Theme:** Sustainability and Social Responsibility in Supply Chains
+# **Theme:** Sustainability, Social Responsibility, and Resilience in Supply Chains
 
-**Purpose and Objective:** In today’s era, businesses are paying close attention to their efforts to manage their supply chains in a manner that not only minimizes the environmental impacts of their supply chain activities but also focuses on making these activities ethical and socially responsible. Sustainability and social responsibility are integral components in advancing responsible and ethical supply chain management. The objective of this conference is three-fold: (i) to bring together academics and industry professionals who are leading their research and endeavors related to sustainable and socially responsible supply chains, (ii) learn from practice about issues that are important and potentially impactful to address, and (iii) provide a platform for our SCM students to learn about recent research and developments in supply chains in terms of sustainability and social responsibility
+**Purpose and Objective:** The theme of this conference is: “Sustainability, Social Responsibility, and Resilience in Supply Chains”. In today’s era, businesses are paying close attention to their efforts to manage their supply chains in a manner that not only minimizes the environmental impacts of their supply chain activities but also focuses on making these activities ethical and socially responsible. Furthermore, supply chain resilience is paramount for businesses to navigate an ever-changing and unpredictable world. Particularly, it plays a critical role in adapting to disruptions and maintaining operational continuity while upholding the principles of sustainability and social responsibility. The objective of this conference is three-fold: to (i) bring together academics and industry professionals who are leading their research and endeavors related to sustainable, socially responsible, and resilient supply chains, (ii) learn from practice about issues that are important and potentially impactful to address, and (iii) provide a platform for our students to learn about recent research and developments in supply chains in terms of sustainability, social responsibility, and resilience.
 
 
 {: .center} 
@@ -78,23 +78,23 @@ Chris Tang
 
 **Venue: TBD, i-Hotel, Champaign, IL.**
 
-#### 9.00 AM - 10.00 AM: Keynote - Leader
+#### 9.00 AM - 9.30 AM: Introduction and breakfast
 
-#### 10.00 AM - 11.30 AM: Session
+#### 9.30 AM - 10.15 AM: Keynote - Leader
 
-#### 11.30 AM - 11.45 AM: Coffee break
+#### 10.15 AM - 10.30 AM: Coffee break
 
-#### 11.45 AM - 1.00 PM: Panel
+#### 10.30 AM - 12.00 AM: Session
 
-#### 1.00 PM - 2.00 PM: Lunch
+#### 12.00 PM - 1.00 PM: Lunch
 
-#### 2.00 PM - 3.30 PM: Session 1
+#### 1.00 PM - 2.30 PM: Session 1
 
-#### 3.30 PM - 3.45 PM: Coffee break
+#### 2.30 PM - 2.45 PM: Coffee break
 
-#### 3.45 PM - 5.15 PM: Session 2
+#### 2.45 PM - 4.15 PM: Session 2
 
-#### 5.15 PM - 7.30 PM: Dinner
+#### 5.00 PM - 7.30 PM: Dinner
 
 **Date: TBD, 2024; Saturday**
 
