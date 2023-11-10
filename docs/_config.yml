@@ -21,7 +21,7 @@
 title: Welcome to Supply Chain Management Conference website!
 email: milim@illinois.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  TBD
+  
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://Supply-Chain-Management-group-at-UIUC.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
