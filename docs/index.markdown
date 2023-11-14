@@ -50,11 +50,6 @@ ul, ol {
 
 **Venue**: i-Hotel, Champaign, IL. [https://stayatthei.com/stay/](https://stayatthei.com/stay/ )
 
-**Conference Attendance Registration Form**:
-
-{: .center}
-<a href="TBD" style="display: inline-block; padding: 12px 25px; background-color: #3A5795; color: #FFFFFF; text-decoration: none; border-radius: 5px; font-family: 'Roboto', sans-serif; text-align: center; line-height: 1.5;">Register</a>
-
 
 {: .center}
 # Agenda of the Conference (Tentative)
