@@ -62,11 +62,11 @@ ul, ol {
 - **9:00 AM - 9:30 AM:** Introduction and Breakfast
 - **9:30 AM - 10:15 AM:** Keynote Speaker
 - **10:15 AM - 10:30 AM:** Coffee Break
-- **10:30 AM - 12:00 PM:** Session
+- **10:30 AM - 12:00 PM:** Session 1
 - **12:00 PM - 1:00 PM:** Lunch
-- **1:00 PM - 2:30 PM:** Session 1
+- **1:00 PM - 2:30 PM:** Session 2
 - **2:30 PM - 2:45 PM:** Coffee Break
-- **2:45 PM - 4:15 PM:** Session 2
+- **2:45 PM - 4:15 PM:** Session 3
 - **5:00 PM - 7:30 PM:** Dinner
 
 ---
@@ -82,4 +82,5 @@ ul, ol {
 
 # **Sponsorship**: 
 
-Gies College of Business, University of Illinois Urbana-Champaign
+Supply Chain Management Program, Gies College of Business, University of Illinois Urbana-Champaign
+
